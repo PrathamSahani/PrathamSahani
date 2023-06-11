@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- [![MasterHead](https://cutewallpaper.org/26/aesthetic-bedroom-gif-wallpaper/debbie-balboa-anime-wallpaper-1920x1080-anime-pixel-art-animated-love-images.gif)](https://PrathamSahani.io) -->
 <h1 align="center">Hi 👋, I'm Pratham Sahani</h1>
-<h3 align="center">A passionate full stack developer, Programmer from India</h3>
+<!-- <h3 align="center">A passionate full stack developer, Programmer from India</h3> -->
 <br>
 <img align="right" alt = "Coding" width="350" src="https://i.ibb.co/mS35XK4/po-removebg-preview.png" >
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **prathams0368@gmail.com**
 
 <br></br>
-<!-- <br>  -->
+<br> 
 </br>
 
 <h3 align="center">Languages and Tools:</h3><br>
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratham-sahani-3a0791239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratham-sahani-3a0791239/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/prathams0368" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prathams0368" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/prathams0368" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prathams038" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/sahani_ratham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sahani_pratham/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/prathamsahani0368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/prathamsahani0368/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/prathamsahani0368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/prathamsaani0368/" height="30" width="40" /></a>
 </p>
 
