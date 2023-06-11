@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif)](https://PrathamSahani.io)
+
+<!-- <img class="gfg" alt="Coding" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif"> -->
+<!-- [![MasterHead](https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif)](https://PrathamSahani.io) -->
 <h1 align="center">Hi 👋, I'm Pratham Sahani</h1>
 <!-- <h3 align="center">A passionate full stack developer, Programmer from India</h3> -->
 <br>
