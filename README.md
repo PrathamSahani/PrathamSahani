@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- [![MasterHead](https://cutewallpaper.org/26/aesthetic-bedroom-gif-wallpaper/debbie-balboa-anime-wallpaper-1920x1080-anime-pixel-art-animated-love-images.gif)](https://PrathamSahani.io) -->
+[![MasterHead](https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif)](https://PrathamSahani.io)
 <h1 align="center">Hi 👋, I'm Pratham Sahani</h1>
 <!-- <h3 align="center">A passionate full stack developer, Programmer from India</h3> -->
 <br>
@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PrathamSahani](https://github.com/PrathamSahani)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/PrathamSahani" > Projects<a/>
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/prathamsahani0368/articles](https://auth.geeksforgeeks.org/user/prathamsahani0368/articles)
+- 📝 I regularly write articles on <a href="https://auth.geeksforgeeks.org/user/prathamsahani0368/articles">GeeksforGeeks</a>
 
 - 💬 Ask me about **Web development, JAVA, Django**
 
 - 📫 How to reach me **prathams0368@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3><br>
