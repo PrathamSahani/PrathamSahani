@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Web development, JAVA, Django**
 
-  - 📫 How to reach me <a href="prathams0368@gmail.com" > Email</a>
+  - 📫 How to reach me **prathams0368@gmail.com**
 
 
 
