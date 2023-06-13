@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/prathamsahani0368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/prathamsaani0368/" height="30" width="40" /></a>
 </p>
 <br></br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamsahani&" alt="prathamsahani" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamsahani&" alt="prathamsahani" /></p> -->
 
