@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pratham Sahani</h1>
 <h2 align="center">Radhe Radhe ❣️ jai shree krishna ❤️🙏</h2>
 <br>
-<img align="right" alt = "Coding" width="350" src="https://i.ibb.co/mS35XK4/po-removebg-preview.png" >
+<!-- <img align="right" alt = "Coding" width="350" src="https://i.ibb.co/mS35XK4/po-removebg-preview.png" > -->
+<img align="right" alt = "Coding" width = "350" src="https://i.ibb.co/zhQ6Z6t/Microsoft-coding-questions-removebg-preview.png">
 <!-- <img align="right" width="350" src="https://octodex.github.com/images/NUX_Octodex.gif"> -->
 
 - 🌱 I’m currently learning **Competitive Programming**
