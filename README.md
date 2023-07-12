@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <img class="gfg" alt="Coding" src="https://octodex.github.com/images/NUX_Octodex.gif"> -->
 <!-- [![MasterHead](https://octodex.github.com/images/NUX_Octodex.gif)](https://PrathamSahani.io) -->
 <h1 align="center">Hi 👋, I'm Pratham Sahani</h1>
-<h2 align="center">Radhe Radhe ❣️ jai shree krishna ❤️🙏</h2>
+<h2 align="center"> Web Developer 🎑& Programming in JAVA💻</h2>
 <br>
 <!-- <img align="right" alt = "Coding" width="350" src="https://i.ibb.co/mS35XK4/po-removebg-preview.png" > -->
 <img align="right" alt = "Coding" width = "350"  src="https://i.ibb.co/3NwqWK1/po-removebg-preview.png">
