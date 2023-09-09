@@ -1,9 +1,6 @@
 <!-- ### Hi there 👋 -->
 
 
-
-<!-- <img class="gfg" alt="Coding" src="https://octodex.github.com/images/NUX_Octodex.gif"> -->
-<!-- [![MasterHead](https://octodex.github.com/images/NUX_Octodex.gif)](https://PrathamSahani.io) -->
 <h1 align="center">Hi 👋, I'm Pratham Sahani</h1>
 <h2 align="center"> Web Developer 🎑& Programming in JAVA💻</h2>
 <br>
