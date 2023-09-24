@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 
-<h1 align="center">Hi 👋, I'm Pratham Sahani</h1>
+<h1 align="center"> Hi 👋, I'm Pratham Sahani</h1>
 <h2 align="center"> Web Developer 🎑& Programming in JAVA💻</h2>
 <br>
 <!-- <img align="right" alt = "Coding" width="350" src="https://i.ibb.co/mS35XK4/po-removebg-preview.png" > -->
