@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-
 <h1 align="center"> Hi 👋, I'm Pratham Sahani</h1>
 <h2 align="center"> Web Developer 🎑& Programming in JAVA💻</h2>
 <br>
